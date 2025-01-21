@@ -7,7 +7,7 @@ package calculartienda;
 import java.util.Scanner;
 
 /**
- *
+ * @author jordan
  * @author chengxuan
  */
 public class Tienda {
