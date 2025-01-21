@@ -7,6 +7,7 @@ package calculartienda;
 /**
  *
  * @author jordan
+ * @author Chengxuan
  */
 public class CalcularTienda {
 
