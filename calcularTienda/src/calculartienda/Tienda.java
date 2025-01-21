@@ -24,6 +24,7 @@ public class Tienda {
         Tienda tienda = new Tienda(); // Instanciar la clase Tienda
         
         // El menú sigue ejecutándose hasta que el usuario elija la opción de salir
+        // El menú sigue ejecutándose hasta que el usuario elija la opción de largarse XD
         do {
             opcion = tienda.mostrarMenu(); // Usar la instancia para llamar al método
             switch (opcion) {
